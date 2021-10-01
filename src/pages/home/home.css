@@ -3,3 +3,19 @@
   padding-top: 100vh;
 
 }
+
+.chats {
+  background-color: #000;
+  height: 150px;
+}
+
+.text {
+  margin-top: 50px;
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 22px;
+  line-height: 36px;
+  /* Темно-синий */
+  color: white;
+}
