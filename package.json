@@ -1,19 +1,9 @@
 {
   "name": "messenger",
-  "version": "1.0.0",
-  "description": "",
+  "source": "index.html",
   "scripts": {
-    "start": "parcel index.html -p 3000",
-    "build": "parcel build index.html"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/MaximStovba/messenger.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/MaximStovba/messenger/issues"
+    "start": "parcel",
+    "build": "parcel build"
   },
   "devDependencies": {
     "parcel": "^2.0.0-rc.0"
